@@ -48,6 +48,28 @@ you must have
   then wait untill it show like the picture below
   <img width="1200" height="87" alt="image" src="https://github.com/user-attachments/assets/b836cc8d-5dca-40ae-915e-a8beb8378161" />
   if it show like this, it's mean your OS is succesfully installed TypeScript!
+
+  ## Installation
+  1. clone the repo
+  ```sh
+   git clone https://github.com/Nanthira/Primo-sorted-num-with-unit-test.git
+  ```
+  2. download modules in need
+  ```sh
+   npm install
+  ```
+
+  ## Program command
+  after git clone repository. to run the project, open the repo in Visua Studio Code's Terminal. The file structure will have a folder name **quiz** which collect the code both algorithm (in src) and unit test (in test).
+  * to run the test
+  ```sh
+    npm test
+  ```
+  the test will run automatically. once finished running, it will show the result similar to the picture below
+  <img width="1621" height="253" alt="image" src="https://github.com/user-attachments/assets/1e590ec8-7e37-46bb-a1fd-6118e2f7d134" />
+
+  
+  
   
   
  
